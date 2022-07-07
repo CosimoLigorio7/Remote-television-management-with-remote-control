@@ -1,0 +1,12 @@
+BlueJ run started: Fri Nov 10 11:43:33 CET 2017
+BlueJ version 4.1.1
+Java version 1.8.0_144
+Virtual machine: Java HotSpot(TM) Client VM 25.144-b01 (Oracle Corporation)
+Running on: Windows 7 6.1 (x86)
+Java Home: F:\bluej\jdk\jre
+----
+Detected language "italian" based on iso639-2 code "ita"
+Opening project: F:\SCUOLA\INFORMATICA 2017 2018\ESERCIZI\Televione e Telecomando
+1510310622043: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
